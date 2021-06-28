@@ -1,4 +1,4 @@
-# regulated-development-aws
+# Regulated Development AWS
 Regulated Development on AWS
 
 # Motivation
